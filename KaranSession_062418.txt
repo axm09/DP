@@ -1,0 +1,120 @@
+    1  dockers version
+    2  cd /
+    3  open /Applications
+    4  ps
+    5  pwd
+    6  cd ~
+    7  pwd
+    8  open /Applications
+    9  open docker
+   10  open /Applications/Docket
+   11  open /Applications/Docker
+   12  ls -l
+   13  cd Applications
+   14  ls -l
+   15  dockers
+   16  pwd
+   17  docker login
+   18  pwd
+   19  cd /
+   20  pwd
+   21  cd ~
+   22  pwd
+   23  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   24  ls
+   25  brew update
+   26  which brew
+   27  where brew
+   28  cd /usr/local/
+   29  ls
+   30  which docker
+   31  pwd
+   32  cd ..
+   33  cd ~
+   34  pwd
+   35  brew search git
+   36  brew install git
+   37  git login
+   38  pwd
+   39  mkdir projects
+   40  cd projects
+   41  mkdir DemoProj
+   42  cd DemoProj
+   43  git init .
+   44  ls
+   45  ls -l
+   46  ls -al
+   47  ls - .git
+   48  man git
+   49  touch README.md
+   50  git status
+   51  git add README.md 
+   52  git status
+   53  git commit
+   54  git config --global --edit
+   55  git status
+   56  git log
+   57  git commit --amend --edit
+   58   git commit --amend --reset-author
+   59  git status
+   60  git log
+   61  vi .git/config 
+   62  git branch
+   63  git remote add origin https://github.com/axm09/DP.git
+   64  cat .git/config
+   65  git status
+   66  git log
+   67  git remote
+   68  git remote -v
+   69  git diff origin master
+   70  git diff
+   71  man git-push
+   72  git push -u origin master
+   73  vi README.md 
+   74  git status
+   75  git add README.md 
+   76  git status
+   77  git commit
+   78  git status
+   79  git push
+   80  cat .git/config
+   81  git status
+   82  git fetch
+   83  git log
+   84  git merge origin/master
+   85  git log
+   86  git pull
+   87  git fetch
+   88  git pull
+   89  git log
+   90  git pull
+   91  git log
+   92  git pull
+   93  git branch bas-27
+   94  git branch
+   95  git checkout bas-27
+   96  git branch
+   97  vi README.md 
+   98  git status
+   99  git add
+  100  git add README.md 
+  101  git status
+  102  git commit
+  103  git status
+  104  git remote -v
+  105  git branch -u bas-27
+  106  git branch -u origin/bas-27
+  107  git push -u origin/bas-27
+  108  git push -u origin
+  109  git push --set-upstream origin bas-27
+  110  git pull
+  111  git log
+  112  git checkout master
+  113  git merge bas-27
+  114  git status
+  115  git push
+  116  git push origin --delete bas-27
+  117  git branch -d bas-27
+  118  git branch
+  119  history
+  120  history >> KaranSession
