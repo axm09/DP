@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        String abbreviated = StringUtils.abbreviate("United nations organization", 3);
+        String abbreviated = StringUtils.abbreviate("United nations organization", 16);
         System.out.println(abbreviated)
         
     }
