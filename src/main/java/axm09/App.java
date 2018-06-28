@@ -15,6 +15,8 @@ public class App
         
         String capitalize = StringUtils.capitalize("test data");
         System.out.println(capitalize);
+        String abbreviated = StringUtils.abbreviate("United nations organization", 16);
+        System.out.println(abbreviated)
         
         String abbr = StringUtils.abbreviate("This is a test data", 10);
         System.out.println(abbr);
